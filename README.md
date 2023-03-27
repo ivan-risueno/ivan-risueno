@@ -17,9 +17,4 @@ Software engineering currently in self develop. Need to merge some changes befor
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=ivan-risueno&icon=5&color=11)](https://visitcount.itsvg.in)
