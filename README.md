@@ -1,5 +1,5 @@
 # 💫 About Me:
-as
+Software engineering currently in self develop. Need to merge some changes before i keep going...
 
 
 ## 🌐 Socials:
