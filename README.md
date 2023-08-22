@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineering currently in self develop. Need to merge some changes before i keep going...
+Software engineering student currently in self develop. One year before graduation!
 
 
 ## 🌐 Socials:
