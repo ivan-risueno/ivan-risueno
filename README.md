@@ -1,6 +1,6 @@
 # 💫 About Me:
 Software engineering student currently in self develop. One year before graduation!
-
+Check my portfolio at: https://ivan-risueno.github.io/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_iivan_rm) 
