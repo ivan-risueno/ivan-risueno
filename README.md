@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineering student currently in self develop. One year before graduation!
+Software engineering student currently in self develop. Last sprint, TFG is on the way...
 Check my portfolio at: https://ivan-risueno.github.io/
 
 ## 🌐 Socials:
